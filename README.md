@@ -5,6 +5,4 @@ I used this project HTML and CSS languages.
 
 # Page
 
-You can observe this project to click this link.
-
-    * [Landing Page Link](https://denizcamalan.github.io/LandingPage/).
+You can observe this project to click this link [Landing Page Link](https://denizcamalan.github.io/LandingPage/).
