@@ -7,4 +7,4 @@ I used this project HTML and CSS languages.
 
 You can observe this project to click this link.
 
-    *[Landing Page link](https://denizcamalan.github.io/LandingPage/).
+    * [Landing Page Link](https://denizcamalan.github.io/LandingPage/).
